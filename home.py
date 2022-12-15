@@ -10,6 +10,31 @@ st.header("Optimizando ciudades con sostenibilidad 🌎")
 
 st.write("Bienvenidos al futuro de la gestión urbana automatizada 🤖")
 
+#SUBTITULO
+st.write('---')
+st.write("""
+**Nueve (9) Centrales de Mando para:**
+- 🗺: `Necesidades Territoriales`
+- 💛: `Sentimientos Digitales`
+- 🧭: `Propuestas`
+- 🚧: `Proyectos`
+- 🗣️: `Ciudadanía`
+- 🦶: `Funcionarios`
+- 🧑‍⚖️: `Ediles`
+- 🕵️: `Deportistas`
+- 💰: `Financiación`
+""")
+st.write("""
+**Sistema de Alarmas para:**
+- ⏰ : `Retrasos en Cumplimientos de Metas`
+""")
+st.write("""
+**Sistema de Recomendación para:**
+- 📈:  `Más Salud, Empleo y Educación`
+""")
+st.write('---')
+st.markdown('Versión Ejemplo Borrador - Cotiza tu versión personalizada en www.novussity.com')
+
 st.markdown(
   """
   En esta web encontrarás:
