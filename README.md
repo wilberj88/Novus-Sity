@@ -9,6 +9,9 @@ https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-4414
 Semantic Segmentation: buildings, roads...
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
 
+GIS with ChatGpt
+https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
+
 
 Vision Satelital para Urban Planing:
 https://affine.ai/telescope/
