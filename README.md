@@ -6,6 +6,10 @@ https://medium.com/@mladen.dragicevic/real-time-gtfs-data-dashboard-in-python-20
 Urban Geospatial Data with ChatGPT
 https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-44144c94f678
 
+Semantic Segmentation: buildings, roads...
+https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
+
+
 Vision Satelital para Urban Planing:
 https://affine.ai/telescope/
 
