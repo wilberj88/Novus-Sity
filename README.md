@@ -1,5 +1,8 @@
 # Novus-Sity
 
+Python 3D Lidar
+https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
+
 General Transit Feed Specification GFTS - Transport :
 https://medium.com/@mladen.dragicevic/real-time-gtfs-data-dashboard-in-python-209801ba32f1
 
