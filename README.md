@@ -4,6 +4,9 @@ JavaScript 3D + ChatGPT:
 London example:
 https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
 
+May Edition: The Data of Urban Spaces | by TDS Editors | May, 2023 | Towards Data Science
+https://towardsdatascience.com/may-edition-the-data-of-urban-spaces-815831aaf749
+
 
 Python 3D Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
