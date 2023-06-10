@@ -11,6 +11,9 @@ https://towardsdatascience.com/may-edition-the-data-of-urban-spaces-815831aaf749
 Python 3D Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
 
+3D City Modeling:
+https://medium.com/@taremyor/building-footprint-extraction-for-3d-city-modelling-using-point-cloud-and-orthophoto-case-study-of-4871bff73601
+
 General Transit Feed Specification GFTS - Transport :
 https://medium.com/@mladen.dragicevic/real-time-gtfs-data-dashboard-in-python-209801ba32f1
 
