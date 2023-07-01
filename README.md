@@ -16,6 +16,8 @@ https://medium.com/@taremyor/building-footprint-extraction-for-3d-city-modelling
 
 General Transit Feed Specification GFTS - Transport :
 https://medium.com/@mladen.dragicevic/real-time-gtfs-data-dashboard-in-python-209801ba32f1
+Visualizing Transportation Network:
+https://medium.com/memgraph/modeling-visualizing-and-navigating-a-transportation-network-with-memgraph-c365dbda7da9
 
 Urban Geospatial Data with ChatGPT
 https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-44144c94f678
