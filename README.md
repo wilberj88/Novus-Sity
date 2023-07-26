@@ -1,5 +1,8 @@
 # Novus-Sity
 
+DAO: Descentralized Autonomous Operation for a Collective Pourpuse
+Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo real
+
 JavaScript 3D + ChatGPT: 
 London example:
 https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
