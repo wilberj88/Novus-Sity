@@ -2,6 +2,7 @@
 
 DAO: Descentralized Autonomous Operation for a Collective Pourpuse
 Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo real
+https://aragon.org/
 
 JavaScript 3D + ChatGPT: 
 London example:
