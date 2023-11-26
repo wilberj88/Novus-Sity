@@ -11,6 +11,8 @@ https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-developmen
 May Edition: The Data of Urban Spaces | by TDS Editors | May, 2023 | Towards Data Science
 https://towardsdatascience.com/may-edition-the-data-of-urban-spaces-815831aaf749
 
+https://leafmap.org/notebooks/81_buildings/
+
 
 Python 3D Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
