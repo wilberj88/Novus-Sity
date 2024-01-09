@@ -34,6 +34,8 @@ https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelli
 GIS with ChatGpt
 https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
 
+Air Quality
+https://towardsdatascience.com/a-python-tool-for-fetching-air-pollution-data-from-google-maps-air-quality-apis-7cf58a7c63cb
 
 Vision Satelital para Urban Planing:
 https://affine.ai/telescope/
