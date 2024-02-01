@@ -1,5 +1,8 @@
 # Novus-Sity
 
+Supervision for cities:
+https://github.com/roboflow/supervision
+
 DAO: Descentralized Autonomous Operation for a Collective Pourpuse
 Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo real
 https://aragon.org/
