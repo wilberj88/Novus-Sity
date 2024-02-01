@@ -8,6 +8,8 @@ JavaScript 3D + ChatGPT:
 London example:
 https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
 
+https://www.fiware.org/wp-content/uploads/FIWARE_SmartCities_ReferenceArchitecture.png
+
 May Edition: The Data of Urban Spaces | by TDS Editors | May, 2023 | Towards Data Science
 https://towardsdatascience.com/may-edition-the-data-of-urban-spaces-815831aaf749
 
