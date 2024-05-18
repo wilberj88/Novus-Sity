@@ -1,5 +1,7 @@
 # Novus-Sity
 
+Elections: https://github.com/syrom/crewAI_for_party_program/blob/main/results/V04_process_and_result_liberal_municipal_election_program.txt
+
 Goverment Agencies: https://github.com/amadad/civic-agentcy/tree/main
 
 Supervision for cities:
